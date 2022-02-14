@@ -1,0 +1,11 @@
+.container {
+    min-width: 104rem;
+    width: 100%;
+}
+.container-QR {
+    flex-wrap: nowrap;
+}
+.attribution {
+    font-size: 1.2rem;
+    margin-top: 2rem;
+}
